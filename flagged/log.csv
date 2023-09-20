@@ -1,0 +1,5 @@
+symptom_list,output,flag,username,timestamp
+['lethargy'],,,,2023-09-20 19:51:07.190101
+"['yellowing_of_eyes', 'pain_during_bowel_movements', 'blister']",Impetigo,,,2023-09-20 20:22:49.485936
+"['yellowing_of_eyes', 'pain_during_bowel_movements', 'blister', 'back_pain', 'cold_hands_and_feets']",Impetigo,,,2023-09-20 20:22:53.914169
+"['yellowing_of_eyes', 'pain_during_bowel_movements', 'blister', 'back_pain', 'cold_hands_and_feets', 'ulcers_on_tongue']",Impetigo,,,2023-09-20 20:22:58.462353
